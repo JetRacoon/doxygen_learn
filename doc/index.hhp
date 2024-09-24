@@ -1,0 +1,83 @@
+[OPTIONS]
+Compiled file=index.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x419 Russian
+Title=Calculator
+
+[WINDOWS]
+main="Calculator","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+annotated.html
+calculator_8h.html
+calculator_8h_source.html
+class_calculator-members.html
+class_calculator.html
+class_comparator-members.html
+class_comparator.html
+class_multiplier-members.html
+class_multiplier.html
+class_summator-members.html
+class_summator.html
+classes.html
+doxygen_crawl.html
+files.html
+functions.html
+functions_func.html
+globals.html
+globals_enum.html
+globals_eval.html
+graph_legend.html
+group__some_group.html
+hierarchy.html
+index.html
+inherits.html
+pages.html
+todo.html
+topics.html
+bc_s.png
+bc_sd.png
+class_calculator__inherit__graph.png
+class_comparator__coll__graph.png
+class_comparator__inherit__graph.png
+class_multiplier__coll__graph.png
+class_multiplier__inherit__graph.png
+class_summator__coll__graph.png
+class_summator__inherit__graph.png
+closed.png
+doxygen.svg
+graph_legend.png
+inherit_graph_0.png
+minus.svg
+minusd.svg
+nav_f.png
+nav_fd.png
+nav_g.png
+nav_h.png
+nav_hd.png
+open.png
+plus.svg
+plusd.svg
+splitbar.png
+splitbard.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_ad.png
+tab_b.png
+tab_bd.png
+tab_h.png
+tab_hd.png
+tab_s.png
+tab_sd.png
+doxygen.css
+dynsections.js
+jquery.js
+navtree.css
+resize.js
+tabs.css
